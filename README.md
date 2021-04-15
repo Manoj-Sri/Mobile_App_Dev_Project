@@ -25,7 +25,7 @@ App contains inbuilt online voting and unit conversion features.Unit conversion 
 
 [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
 
-[Parceler](https://github.com/trulymittal/parcelable)
+[Parceler](https://github.com/johncarl81/parceler)
 
 
 ### Further improvements that can be done
